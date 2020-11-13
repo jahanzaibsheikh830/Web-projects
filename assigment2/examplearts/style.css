@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+}
+a{
+    padding: 10px 20px;
+    background-color: #3b5998;
+    color: #ffffff;
+    font-size: 18px;
+    text-decoration: none;
+}
