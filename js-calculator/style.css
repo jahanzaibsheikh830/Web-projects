@@ -1,0 +1,41 @@
+body{
+    background-color: black;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+    text-align: center;
+}
+.cal{
+    width: 500px;
+    margin: 50px auto;
+    max-width: 100%;
+    background-color: #fff;
+    padding: 10px;
+
+}
+.cal input{
+    padding: 7px 0px 7px 7px;
+    width: 100%;
+    margin: 5px 0;
+}
+button{
+    width: 24%;
+    padding: 10px;
+    margin: 5px 0 ;
+    background-color: cornflowerblue;
+    border: 1px solid cornflowerblue;
+    font-size: 18px;
+    color: #fff;
+}
+#res1{
+    height: 80px;
+    width: 100%;
+    background-color: cornflowerblue;
+    text-align: center;
+    color: #fff;
+    padding: 10px 0;
+}
